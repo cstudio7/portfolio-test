@@ -29,4 +29,4 @@ Built with Node Js
 
 Show Love by giving the Repo a star...😇
 
-# New Link at [Victor Godwin](https://johnoseni.co/)
+# New Link at [Victor Godwin](https://vic-portfoilo-6e9de08cd5cc.herokuapp.com/)
