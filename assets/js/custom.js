@@ -1,3 +1,8 @@
+/*File name - main.css, */
+/*Student’s Name - VICTOR GODWIN, */
+/*StudentID - 301296424,*/
+/*Date - 11 OCT 2023.*/
+
 $(function() {
 
 	"use strict";
